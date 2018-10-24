@@ -12,8 +12,9 @@ suite = unittest.TestLoader().discover(test_dir,pattern='test*.py')
 
 # """生成HTML报告文件"""
 report_path = os.path.dirname(os.path.abspath('.')) + '/test_report/'
-file_name = time.strftime('%Y%m%d %H%M%S',time.localtime(time.time()))
-html_file_full_path = report_path + file_name + "_result.html"
+#file_name = time.strftime('%Y%m%d %H%M%S',time.localtime(time.time()))
+#html_file_full_path = report_path + file_name + "_result.html"
+html_file_full_path = report_path + "result.html"
 fp = open(html_file_full_path,'wb')
 
 
