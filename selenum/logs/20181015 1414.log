@@ -1,0 +1,10 @@
+2018-10-15 14:14:41,648 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 14:14:41,648 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 14:14:44,897 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 14:14:52,025 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 14:14:53,199 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 14:14:53,203 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 14:14:53,763 - BasePage - INFO - Successful input
+2018-10-15 14:14:54,159 - BasePage - INFO - Successful input
+2018-10-15 14:15:09,777 - BasePage - INFO - The elemnet 登录 was clicked.
+2018-10-15 14:15:20,330 - BasePage - ERROR - <pageobjects.Dis_moren_page.MorenPage object at 0x000000000323E390> 页面中未能找到 ('id', 'subject') 元素

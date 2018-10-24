@@ -1,0 +1,24 @@
+2018-10-15 16:41:29,709 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 16:41:29,709 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 16:41:33,087 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 16:41:45,606 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 16:41:45,612 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 16:41:46,067 - BasePage - INFO - Successful input
+2018-10-15 16:41:46,542 - BasePage - INFO - Successful input
+2018-10-15 16:42:00,980 - BasePage - INFO - The elemnet 登录 was clicked.
+2018-10-15 16:42:14,375 - BasePage - INFO - Had take screenshots and save to folder : /screen_shots  已经添加了快照 并保存到了screen_shots目录下
+2018-10-15 16:42:14,376 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 16:42:14,731 - BasePage - INFO - The elemnet  was clicked.
+2018-10-15 16:42:16,969 - BasePage - INFO - The elemnet 删除 was clicked.
+2018-10-15 16:42:32,334 - BasePage - INFO - Had take screenshots and save to folder : /screen_shots  已经添加了快照 并保存到了screen_shots目录下
+2018-10-15 16:42:32,334 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 16:42:32,854 - BasePage - INFO - The elemnet 管理中心 was clicked.
+2018-10-15 16:42:32,876 - BasePage - INFO - Successfully go to new page window
+2018-10-15 16:43:10,014 - BasePage - INFO - Had take screenshots and save to folder : /screen_shots  已经添加了快照 并保存到了screen_shots目录下
+2018-10-15 16:43:10,015 - BasePage - ERROR - <pageobjects.Dis_guanli_zz_page.GuanliZuan object at 0x0000000003260048> 页面中未能找到 ('css selector', '#loginform .loginform .txt') 元素

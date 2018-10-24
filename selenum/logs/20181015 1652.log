@@ -1,0 +1,38 @@
+2018-10-15 16:52:34,119 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 16:52:34,119 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 16:52:37,216 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 16:52:45,233 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 16:52:45,237 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 16:52:45,664 - BasePage - INFO - Successful input
+2018-10-15 16:52:46,051 - BasePage - INFO - Successful input
+2018-10-15 16:53:00,343 - BasePage - INFO - The elemnet 登录 was clicked.
+2018-10-15 16:53:13,744 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 16:53:14,101 - BasePage - INFO - The elemnet  was clicked.
+2018-10-15 16:53:16,189 - BasePage - INFO - The elemnet 删除 was clicked.
+2018-10-15 16:53:30,607 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 16:53:31,141 - BasePage - INFO - The elemnet 管理中心 was clicked.
+2018-10-15 16:53:31,161 - BasePage - INFO - Successfully go to new page window
+2018-10-15 16:53:32,710 - BasePage - INFO - Successful input
+2018-10-15 16:54:01,520 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 16:54:03,265 - BasePage - INFO - The elemnet 论坛 was clicked.
+2018-10-15 16:54:03,308 - BasePage - INFO - Successfully cut into nested HTML pages
+2018-10-15 16:54:03,954 - BasePage - INFO - The elemnet 添加新版块 was clicked.
+2018-10-15 16:54:04,331 - BasePage - INFO - Successful input
+2018-10-15 16:54:06,063 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 16:54:16,667 - BasePage - ERROR - <pageobjects.Dis_guanli_page.GuanliPage object at 0x00000000032670B8> 页面中未能找到 ('link text', '退出') 元素
+2018-10-15 16:54:16,668 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2018-10-15 16:54:27,266 - BasePage - ERROR - <pageobjects.Dis_home_page.HomePage object at 0x0000000003223DD8> 页面中未能找到 ('link text', '退出') 元素
+2018-10-15 16:54:27,267 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2018-10-15 16:54:37,834 - BasePage - ERROR - <pageobjects.Dis_home_page.HomePage object at 0x0000000003223DD8> 页面中未能找到 ('id', 'ls_username') 元素

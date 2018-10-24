@@ -1,0 +1,12 @@
+2018-10-15 14:44:43,571 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 14:44:43,571 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 14:44:46,784 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 14:44:54,309 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 14:44:55,443 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 14:44:55,447 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 14:44:55,855 - BasePage - INFO - Successful input
+2018-10-15 14:44:56,255 - BasePage - INFO - Successful input
+2018-10-15 14:45:12,022 - BasePage - INFO - The elemnet 登录 was clicked.
+2018-10-15 14:45:24,607 - BasePage - ERROR - <pageobjects.Dis_moren_page.MorenPage object at 0x000000000324E550> 页面中未能找到 ('link text', '默认板块') 元素
+2018-10-15 14:45:24,621 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2018-10-15 14:45:35,202 - BasePage - ERROR - <pageobjects.Dis_moren_page.MorenPage object at 0x000000000324E550> 页面中未能找到 ('id', 'subject') 元素

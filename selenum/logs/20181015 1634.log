@@ -1,0 +1,21 @@
+2018-10-15 16:34:06,584 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 16:34:06,584 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 16:34:10,022 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 16:34:17,762 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 16:34:17,770 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 16:34:18,189 - BasePage - INFO - Successful input
+2018-10-15 16:34:18,577 - BasePage - INFO - Successful input
+2018-10-15 16:34:33,543 - BasePage - INFO - The elemnet 登录 was clicked.
+2018-10-15 16:34:46,686 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 16:34:47,045 - BasePage - INFO - The elemnet  was clicked.
+2018-10-15 16:34:49,284 - BasePage - INFO - The elemnet 删除 was clicked.
+2018-10-15 16:35:03,362 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 16:35:03,888 - BasePage - INFO - The elemnet 管理中心 was clicked.
+2018-10-15 16:35:03,911 - BasePage - INFO - Successfully go to new page window
+2018-10-15 16:35:40,833 - BasePage - ERROR - <pageobjects.Dis_guanli_zz_page.GuanliZuan object at 0x000000000325F048> 页面中未能找到 ('css selector', '#loginform .loginform .txt') 元素

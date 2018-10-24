@@ -1,0 +1,23 @@
+2018-10-15 14:47:50,823 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 14:47:50,824 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 14:47:54,095 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 14:48:01,568 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 14:48:02,709 - BrowserEngin - INFO - Maximize the current window.
+2018-10-15 14:48:02,714 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 14:48:03,132 - BasePage - INFO - Successful input
+2018-10-15 14:48:03,526 - BasePage - INFO - Successful input
+2018-10-15 14:48:19,030 - BasePage - INFO - The elemnet 登录 was clicked.
+2018-10-15 14:48:34,717 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 14:48:35,151 - BasePage - INFO - Successful input
+2018-10-15 14:48:35,547 - BasePage - INFO - Successful input
+2018-10-15 14:48:49,997 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 14:48:50,374 - BasePage - INFO - Successful input
+2018-10-15 14:48:52,370 - BasePage - INFO - The elemnet 发表回复 was clicked.
+2018-10-15 14:49:02,941 - BasePage - ERROR - <pageobjects.Dis_huitie_page.HuitiePage object at 0x000000000325D828> 页面中未能找到 ('id', '退出') 元素
+2018-10-15 14:49:02,942 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'

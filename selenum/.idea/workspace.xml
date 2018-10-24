@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f208094f-6d14-4cae-b581-3431894aecaf" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/auto$Dis_guanli_zz_page.coverage" NAME="Dis_guanli_zz_page Coverage Results" MODIFIED="1539522904841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/auto$day01.coverage" NAME="day01 Coverage Results" MODIFIED="1539173494064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto$Unittests_for_test_taobao_login_BaiduSearch.coverage" NAME="Unittests for test_taobao_login.BaiduSearch Coverage Results" MODIFIED="1539516093257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$Unittests_in_basetestcase_py.coverage" NAME="Unittests in basetestcase.py Coverage Results" MODIFIED="1539522884854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$help_page_def.coverage" NAME="help_page_def Coverage Results" MODIFIED="1539659617880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/auto$pa_douban.coverage" NAME="pa_douban Coverage Results" MODIFIED="1539173666664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto$Unittests_in_test_taobao_login_py.coverage" NAME="Unittests in test_taobao_login.py Coverage Results" MODIFIED="1539579659647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$Unittests_for_basetestcase_BaseTestCase.coverage" NAME="Unittests for basetestcase.BaseTestCase Coverage Results" MODIFIED="1539493292224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$baidu_link_fing.coverage" NAME="baidu_link_fing Coverage Results" MODIFIED="1539173518362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto$Dis_moren_page.coverage" NAME="Dis_moren_page Coverage Results" MODIFIED="1539514847708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/auto$Unittests_in_test_Discuz_2_py.coverage" NAME="Unittests in test_Discuz_2.py Coverage Results" MODIFIED="1539596560930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$io_os.coverage" NAME="io_os Coverage Results" MODIFIED="1539222800497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto$browser_engine.coverage" NAME="browser_engine Coverage Results" MODIFIED="1539580244198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/auto$lagou_find_offer.coverage" NAME="lagou_find_offer Coverage Results" MODIFIED="1538275864184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto$Dis_xinjian_page.coverage" NAME="Dis_xinjian_page Coverage Results" MODIFIED="1539522900591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/auto$Unittests_for_test_Discuz_1_LunTan1.coverage" NAME="Unittests for test_Discuz_1.LunTan1 Coverage Results" MODIFIED="1539586357100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$mail_163.coverage" NAME="mail_163 Coverage Results" MODIFIED="1539173617933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto$pa_lagou.coverage" NAME="pa_lagou Coverage Results" MODIFIED="1539173707614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto$Discuz_1.coverage" NAME="Discuz_1 Coverage Results" MODIFIED="1539500259985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$Keys_and_mouse.coverage" NAME="Keys_and_mouse Coverage Results" MODIFIED="1539173577079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto$Dis_home_page.coverage" NAME="Dis_home_page Coverage Results" MODIFIED="1539522891440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/auto$Unittests_for_test_Discuz_2_LunTan2_test2.coverage" NAME="Unittests for test_Discuz_2.LunTan2.test2 Coverage Results" MODIFIED="1539597050476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$Unittests_for_test_taobao_login_BaiduSearch_test_baidu_search.coverage" NAME="Unittests for test_taobao_login.BaiduSearch.test_baidu_search Coverage Results" MODIFIED="1539575427708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$Dis_huitie_page.coverage" NAME="Dis_huitie_page Coverage Results" MODIFIED="1539512605233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/auto$logger.coverage" NAME="logger Coverage Results" MODIFIED="1539320246728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/auto$Discuz_3.coverage" NAME="Discuz_3 Coverage Results" MODIFIED="1539508927088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$base.coverage" NAME="base Coverage Results" MODIFIED="1539658722040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/auto$Unittests_for_test_Discuz_1_LunTan1_test1.coverage" NAME="Unittests for test_Discuz_1.LunTan1.test1 Coverage Results" MODIFIED="1539659724986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$WebDriverWait.coverage" NAME="WebDriverWait Coverage Results" MODIFIED="1539173798895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto$TestRunner.coverage" NAME="TestRunner Coverage Results" MODIFIED="1539608561240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+    <SUITE FILE_PATH="coverage/auto$util.coverage" NAME="util Coverage Results" MODIFIED="1539574380896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/auto$baidu_homepage.coverage" NAME="baidu_homepage Coverage Results" MODIFIED="1539493276684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/auto$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1539222433365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto$base__1_.coverage" NAME="base (1) Coverage Results" MODIFIED="1539326765041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/auto$Dis_guanli_page.coverage" NAME="Dis_guanli_page Coverage Results" MODIFIED="1539522896171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageobjects" />
+    <SUITE FILE_PATH="coverage/auto$Discuz_2.coverage" NAME="Discuz_2 Coverage Results" MODIFIED="1539522880766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsuites" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pageobjects/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-350">
+              <caret line="161" selection-start-line="161" selection-end-line="161" />
+              <folding>
+                <element signature="e#44#74#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="htest_taobao_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuites/htest_taobao_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="800">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#38#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="browser_engine.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#230#260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestRunner.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuites/TestRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#85#100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dis_guanli_zz_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/Dis_guanli_zz_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dis_home_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/Dis_home_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dis_guanli_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/Dis_guanli_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_Discuz_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuites/test_Discuz_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="F:/auto/scripts_20180929/get-links.py" />
+        <option value="F:/auto/scripts_20180929/extract-email.py" />
+        <option value="$PROJECT_DIR$/lagou_find_offer.py" />
+        <option value="$PROJECT_DIR$/Discuz_1.py" />
+        <option value="$PROJECT_DIR$/Discuz_2.py" />
+        <option value="$PROJECT_DIR$/Discuz_3.py" />
+        <option value="$PROJECT_DIR$/Discuz_4.py" />
+        <option value="$PROJECT_DIR$/test_script/Base_TestCase.py" />
+        <option value="$PROJECT_DIR$/test_script/base_testcase.py" />
+        <option value="$PROJECT_DIR$/baidu_link_fing.py" />
+        <option value="$PROJECT_DIR$/day01.py" />
+        <option value="$PROJECT_DIR$/Keys_and_mouse.py" />
+        <option value="$PROJECT_DIR$/mail_163.py" />
+        <option value="$PROJECT_DIR$/pa_douban.py" />
+        <option value="$PROJECT_DIR$/pa_lagou.py" />
+        <option value="$PROJECT_DIR$/WebDriverWait.py" />
+        <option value="$PROJECT_DIR$/demo1.py" />
+        <option value="$PROJECT_DIR$/io_os.py" />
+        <option value="$PROJECT_DIR$/test_script/basetestcase.py" />
+        <option value="$PROJECT_DIR$/test_script/test_taobao_login.py" />
+        <option value="$PROJECT_DIR$/testsuites/Discuz_1.py" />
+        <option value="$PROJECT_DIR$/page_objects/baidu_homepage.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_baidu_search.py" />
+        <option value="$PROJECT_DIR$/page_objects/base.py" />
+        <option value="$PROJECT_DIR$/framework/logger.py" />
+        <option value="$PROJECT_DIR$/pageobjects/baidu_homepage.py" />
+        <option value="$PROJECT_DIR$/testsuites/basetestcase.py" />
+        <option value="$PROJECT_DIR$/pageobjects/Dis_zhu_login.py" />
+        <option value="$PROJECT_DIR$/pageobjects/Dis_home_login.py" />
+        <option value="$PROJECT_DIR$/testsuites/K_Discuz_1.py" />
+        <option value="$PROJECT_DIR$/pageobjects/Dis_huitie_page.py" />
+        <option value="$PROJECT_DIR$/testsuites/Discuz_2.py" />
+        <option value="$PROJECT_DIR$/pageobjects/Dis_xinjian_page.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_taobao_login.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/pageobjects/Dis_moren_page.py" />
+        <option value="$PROJECT_DIR$/framework/browser_engine.py" />
+        <option value="$PROJECT_DIR$/pageobjects/Dis_guanli_zz_page.py" />
+        <option value="$PROJECT_DIR$/testsuites/TestRunner.py" />
+        <option value="$PROJECT_DIR$/pageobjects/Dis_guanli_page.py" />
+        <option value="$PROJECT_DIR$/framework/util.py" />
+        <option value="$PROJECT_DIR$/pageobjects/Dis_home_page.py" />
+        <option value="$PROJECT_DIR$/pageobjects/Dis_search_page.pyi" />
+        <option value="$PROJECT_DIR$/framework/help_page_def.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_Discuz_1.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_Discuz_2.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_Discuz_3.py" />
+        <option value="$PROJECT_DIR$/pageobjects/base.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="123" />
+    <option name="y" value="14" />
+    <option name="width" value="1174" />
+    <option name="height" value="844" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/auto_app" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\auto\test_script" />
+      <recent name="D:\auto\tools" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_Discuz_1.LunTan1.test1">
+    <configuration name="TestRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsuites/TestRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pageobjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pageobjects/base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="help_page_def" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/framework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/framework/help_page_def.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for test_Discuz_1.LunTan1.test1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Discuz_1.LunTan1.test1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_Discuz_2.LunTan2.test2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Discuz_2.LunTan2.test2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TestRunner" />
+      <item itemvalue="Python.base" />
+      <item itemvalue="Python tests.Unittests for test_Discuz_2.LunTan2.test2" />
+      <item itemvalue="Python.help_page_def" />
+      <item itemvalue="Python tests.Unittests for test_Discuz_1.LunTan1.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_Discuz_1.LunTan1.test1" />
+        <item itemvalue="Python.help_page_def" />
+        <item itemvalue="Python.base" />
+        <item itemvalue="Python.TestRunner" />
+        <item itemvalue="Python tests.Unittests for test_Discuz_2.LunTan2.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f208094f-6d14-4cae-b581-3431894aecaf" name="Default" comment="" />
+      <created>1538134304094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538134304094</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_taobao_login_BaiduSearch_test_baidu_search - 2018.10.15 at 11h 40m 53s.xml">
+      <configuration name="Unittests for test_taobao_login.BaiduSearch.test_baidu_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_taobao_login_py - 2018.10.15 at 11h 46m 32s.xml">
+      <configuration name="Unittests in test_taobao_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_taobao_login_BaiduSearch_test_baidu_search - 2018.10.15 at 11h 50m 41s.xml">
+      <configuration name="Unittests for test_taobao_login.BaiduSearch.test_baidu_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_taobao_login_py - 2018.10.15 at 11h 52m 08s.xml">
+      <configuration name="Unittests in test_taobao_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_taobao_login_py - 2018.10.15 at 13h 01m 15s.xml">
+      <configuration name="Unittests in test_taobao_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Discuz_1_LunTan1 - 2018.10.15 at 14h 53m 53s.xml">
+      <configuration name="Unittests for test_Discuz_1.LunTan1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Discuz_2_LunTan2_test2 - 2018.10.15 at 17h 39m 28s.xml">
+      <configuration name="Unittests for test_Discuz_2.LunTan2.test2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_Discuz_2_py - 2018.10.15 at 17h 46m 56s.xml">
+      <configuration name="Unittests in test_Discuz_2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Discuz_2_LunTan2_test2 - 2018.10.15 at 17h 54m 04s.xml">
+      <configuration name="Unittests for test_Discuz_2.LunTan2.test2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_Discuz_1_LunTan1_test1 - 2018.10.16 at 11h 15m 51s.xml">
+      <configuration name="Unittests for test_Discuz_1.LunTan1.test1" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="123" y="14" width="1174" height="844" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.123415045" side_tool="true" weight="0.21037868" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.87658495" weight="0.27091634" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19689119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994452" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.68715084" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testsuites/test_Discuz_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Dis_guanli_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Dis_home_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/auto/scripts_20180929/get-links.py" />
+    <entry file="file://F:/auto/scripts_20180929/extract-email.py" />
+    <entry file="file://F:/auto/scripts_20180929/example-3.py" />
+    <entry file="file://F:/auto/selenium_demo/scripts_20180929/get-links.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/auto/selenium_demo/scripts_20180929/extract-email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3.6/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8400">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/day4.4.py" />
+    <entry file="file://D:/python3.6/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="330" column="51" selection-start-line="330" selection-start-column="51" selection-end-line="330" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDriverWait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io_os.py" />
+    <entry file="file://$PROJECT_DIR$/baidu_link_fing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa_douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="34" column="55" lean-forward="true" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_baidu_search.py" />
+    <entry file="file://D:/python3.6/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3681">
+          <caret line="960" lean-forward="true" selection-start-line="960" selection-end-line="960" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/baidu_homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Dis_huitie_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3.6/Lib/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_report/20181014 141039_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4325">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20181015 1255.log" />
+    <entry file="file://$PROJECT_DIR$/pageobjects/Dis_xinjian_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20181015 1405.log" />
+    <entry file="file://$PROJECT_DIR$/test_report/20181015 145642_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/Discuz_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20181015 1422.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="72" lean-forward="true" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Dis_moren_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/Discuz_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3.6/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Keys_and_mouse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa_lagou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail_163.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Dis_search_page.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_Discuz_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/Discuz_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_Discuz_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/basetestcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/help_page_def.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Dis_home_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/htest_taobao_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#38#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_Discuz_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Dis_guanli_zz_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Dis_guanli_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#230#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/TestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#85#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="161" selection-start-line="161" selection-end-line="161" />
+          <folding>
+            <element signature="e#44#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+2018-10-15 17:32:24,214 - BrowserEngin - INFO - You had select Chrome browser.
+2018-10-15 17:32:24,215 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
+2018-10-15 17:32:27,400 - BrowserEngin - INFO - Starting Chrome browser.
+2018-10-15 17:32:38,713 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
+2018-10-15 17:32:38,724 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
+2018-10-15 17:32:39,173 - BasePage - INFO - Successful input
+2018-10-15 17:32:39,570 - BasePage - INFO - Successful input
+2018-10-15 17:32:49,587 - BasePage - INFO - The elemnet 登录 was clicked.
+2018-10-15 17:33:43,502 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 17:33:43,861 - BasePage - INFO - The elemnet  was clicked.
+2018-10-15 17:33:46,078 - BasePage - INFO - The elemnet 删除 was clicked.
+2018-10-15 17:33:54,873 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 17:33:55,407 - BasePage - INFO - The elemnet 管理中心 was clicked.
+2018-10-15 17:33:55,429 - BasePage - INFO - Successfully go to new page window
+2018-10-15 17:33:56,989 - BasePage - INFO - Successful input
+2018-10-15 17:34:59,843 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-10-15 17:35:01,646 - BasePage - INFO - The elemnet 论坛 was clicked.
+2018-10-15 17:35:01,689 - BasePage - INFO - Successfully cut into nested HTML pages
+2018-10-15 17:35:02,392 - BasePage - INFO - The elemnet 添加新版块 was clicked.
+2018-10-15 17:35:02,787 - BasePage - INFO - Successful input
+2018-10-15 17:35:04,530 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
