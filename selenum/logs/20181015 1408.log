@@ -1,7 +1,0 @@
-2018-10-15 14:08:14,792 - BrowserEngin - INFO - You had select Chrome browser.
-2018-10-15 14:08:14,793 - BrowserEngin - INFO - The test server url is: http://127.0.0.1/upload/forum.php 
-2018-10-15 14:08:18,025 - BrowserEngin - INFO - Starting Chrome browser.
-2018-10-15 14:08:19,451 - BrowserEngin - INFO - open url:http://127.0.0.1/upload/forum.php
-2018-10-15 14:08:20,583 - BrowserEngin - INFO - Maximize the current window.
-2018-10-15 14:08:20,587 - BrowserEngin - INFO - Set implicitly wait 10 seconds.
-2018-10-15 14:08:31,124 - BasePage - ERROR - <pageobjects.Dis_home_page.HomePage object at 0x00000000031DA7F0> 页面中未能找到 ('id', 'ls_username') 元素
